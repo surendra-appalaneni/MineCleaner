@@ -1,0 +1,11 @@
+.classpath
+.project
+.settings/
+target/
+.DS_Store
+pom.xml.versionsBackup
+.metadata
+.checkstyle
+*/target
+*.iml
+.idea
